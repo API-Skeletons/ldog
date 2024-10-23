@@ -10,7 +10,7 @@
         "api-skeletons/laravel-doctrine-apikey": "~2.0.2",
         "api-skeletons/laravel-doctrine-data-fixtures": "^1.0",
         "guzzlehttp/guzzle": "^7.2",
-        "laravel-doctrine/orm": "^2.0",
+        "laravel-doctrine/orm": "^3.0.0",
         "laravel/framework": "^10.0",
         "laravel/tinker": "^2.8",
         "mll-lab/laravel-graphiql": "^3.2"
