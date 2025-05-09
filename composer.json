@@ -10,7 +10,7 @@
         "laravel-doctrine/orm": "^3.0",
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1",
-        "mll-lab/laravel-graphiql": "^3.2"
+        "mll-lab/laravel-graphiql": "^4.0"
     },
     "require-dev": {
         "doctrine/coding-standard": "^12.0",
